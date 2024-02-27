@@ -43,11 +43,11 @@ nav ul {
 
 nav li {
   display: inline-block;
-  margin-left: 15px;
-  margin-right: 48px;
+  margin-right: 6.5%;
   padding-top: 25px;
   padding: 10px 0px;
   position: relative;
+  left: 4%;
 }
 
 nav a {
@@ -100,7 +100,7 @@ nav span {
   padding: 6px;
   border: none;
   margin-top: 8px;
-  margin-left: 30px;
+  margin-left: 50px;
   font-size: 14px;
   font-family: 'Avenir';
 }
